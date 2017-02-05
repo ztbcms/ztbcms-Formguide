@@ -12,7 +12,7 @@ return array(
 	//模块简介
 	'introduce' => '自定义信息表单，用于收集个例信息',
 	//模块介绍地址
-	'address' => 'http://ztbcms.com',
+	'address' => 'http://doc.ztbcms.com/module/formguide/',
 	//模块作者
 	'author' => 'ZtbCMS',
 	//作者地址
